@@ -7,7 +7,7 @@ Instalación de laravel mix:
   npm install
   
 
-COPAR Y RENOMBRAR ARCHIVO .env.example a .env
+COPIAR Y RENOMBRAR ARCHIVO .env.example a .env
 Credenciales de la base de datos:
   DB_DATABASE: sistema_mascotas
   DB_USERNAME=root
