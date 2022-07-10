@@ -19,3 +19,8 @@ Variable APPKEY:
 Migraciónes correspondientes
   php artisan migrate
   
+USO DEL CRUDE
+El crude incluye un sistema de login basico. Para poder acceder al sistema las credenciales son:
+
+USER: ejemplo@gmail.com
+PASSWORD: 12345678
