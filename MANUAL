@@ -6,6 +6,8 @@ Instalación de las dependecias de composer:
 Instalación de laravel mix: 
   npm install
   
+
+ARCHIVO .env
 Credenciales de la base de datos:
   DB_DATABASE: sistema_mascotas
   DB_USERNAME=root
