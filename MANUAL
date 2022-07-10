@@ -1,0 +1,19 @@
+Para ejecutar el proyecto adecuadamente debe:
+
+Instalación de las dependecias de composer: 
+  composer install
+
+Instalación de laravel mix: 
+  npm install
+  
+Credenciales de la base de datos:
+  DB_DATABASE: sistema_mascotas
+  DB_USERNAME=root
+  DB_PASSWORD=
+  
+Variable APPKEY:
+  php artisan key:generate
+  
+Migraciónes correspondientes
+  php artisan migrate
+  
